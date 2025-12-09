@@ -3,7 +3,7 @@
 <p align="center">
   📄 <a href="" target="_blank">Paper</a> &nbsp; | &nbsp;
   🌐 <a href="https://huggingface.co/datasets/crackingastro/CFRP-strengthened-CFST-Under-flexure" target="_blank">Dataset</a> &nbsp; | &nbsp;
-  🖥️ <a href="https://explainable-ml-based-moo-in-cfrp-strengthened-cfst-beam-design.streamlit.app/" target="_blank">Website</a>
+  🖥️ <a href="https://explainable-ml-based-moo-in-cfrp-strengthened-cfst-beam-designs.streamlit.app/" target="_blank">Website</a>
 </p>
 
 This repository contains the **computational framework and data** supporting the research article:
