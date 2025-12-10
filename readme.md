@@ -10,7 +10,7 @@ This repository contains the **computational framework and data** supporting the
 - "Physics-Informed Data Augmentation for Explainable ML-Based Multi-Objective Optimization in Flexural Design of CFRP-Strengthened CFST Beams"  
 - *Muluken Bogale, Addisu Mengistu, Tariku Habtamu*  
 - *Structures*, Elsevier (2025).  
-The framework integrates a **Physics-Informed Tabular Variational Autoencoder (PI-TVAE) ** for data augmentation with an **explainable ensemble Machine Learning** model for flexural strength prediction and multi-objective optimization with Monte Carlo uncertainty quantification.
+The framework integrates a Physics-Informed Tabular Variational Autoencoder (PI-TVAE) for data augmentation with an **explainable ensemble Machine Learning** model for flexural strength prediction and multi-objective optimization with Monte Carlo uncertainty quantification.
 
 ## Repository Contents
 
