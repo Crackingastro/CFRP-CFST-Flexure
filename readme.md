@@ -1,7 +1,7 @@
 # Physics-Informed Data Augmentation for Explainable ML-Based Multi-Objective Optimization in Flexural Design of CFRP-Strengthened CFST Beams
 
 <p align="center">
-  📄 <a href="" target="_blank">Paper</a> &nbsp; | &nbsp;
+  📄 <a href="https://doi.org/10.1016/j.istruc.2025.110844" target="_blank">Paper</a> &nbsp; | &nbsp;
   🌐 <a href="https://huggingface.co/datasets/crackingastro/CFRP-strengthened-CFST-Under-flexure" target="_blank">Dataset</a> &nbsp; | &nbsp;
   🖥️ <a href="https://cfrp-cfst-flexure.streamlit.app" target="_blank">Website</a>
 </p>
